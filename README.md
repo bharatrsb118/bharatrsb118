@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Duppala Bharat Kumar</h1>
 <h3 align="center">"To seek a challenging position in the tech industry to utilize my strong
 foundation in software development and problem-solving. Aiming to
-contribute to</h3>
+contribute to innovative solutions while enhancing my professional growth and
+expertise."</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
